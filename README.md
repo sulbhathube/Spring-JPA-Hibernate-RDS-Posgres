@@ -1,4 +1,4 @@
-# Spring Data JPA with Hibernate using MySql Example
+# Spring Data JPA with Hibernate using Posgresql/Mysql Example
 This project depicts the Spring Boot Example with Spring Data JPA with Hibernate using MySql Example.
 
 ## Description
@@ -12,12 +12,16 @@ This Project shows the list of Users which are stored in the MySql Database. Usi
 - Spring Boot
 - Spring MVC (Spring Web)
 - Spring Data JPA with Hibernate
-- MySql
+- MySql/posgresql
 
 ## Tools used
 - Git 2.10.0
-- IntelliJ IDEA 2017.1
+- IntelliJ IDEA 2017.1/Eclipse
 - MySql running locally
 
 ## Compilation Command
 - `mvn clean install` - Plain maven clean and install
+
+or from Ecipse run as maven clean , maven install, maven build and Run as Spring boot application.
+check apis from Postman http://localhost:8080/
+
